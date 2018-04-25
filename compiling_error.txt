@@ -1,0 +1,4 @@
+D:\Gate Pass\gatepass.cpp: In function 'void main_menu()':
+D:\Gate Pass\gatepass.cpp:132:10: error: 'p' was not declared in this scope
+          p->dept();
+          ^
