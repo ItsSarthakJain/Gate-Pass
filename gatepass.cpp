@@ -136,7 +136,7 @@ inline void main_menu()
          break;
      case '5':
         system("cls");
-         cout<<"\n\n\t\t\t\t\tTHANKS FOR USING GATE PASS PORTAL made by :: \n\n\t\t\t\t\t\t\tsarthak jain \n\n\t\t\t\t\t\t\tsahil chahar\n\n\t\t\t\t\t\t\tsaksham garg\n\n\n\n";
+         cout<<"\n\n\t\t\t\t\tTHANKS FOR USING GATE PASS PORTAL made by :: \n\n\t\t\t\t\t\t\tsarthak jain \n\n\t\t\t\t\t\t\t\n\n\n\n";
          gotoxy(33,11);
          exit(0);
          break;
